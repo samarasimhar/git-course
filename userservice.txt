@@ -1,1 +1,2 @@
 get the user dat
+create an vatar for user
